@@ -1,0 +1,88 @@
+[
+    {
+        "title": "진행중",
+        "icon": "bi-app",
+        "childrens": [
+            {
+                "title": "신규대출",
+                "icon": "bi-app",
+                "path": "/",
+                "childrens": [
+                    {
+                        "title": "심사",
+                        "icon": "bi-app",
+                        "path": "/calendar",
+                        "childrens": [
+                            {
+                                "title": "대출신청",
+                                "icon": "bi-app"
+                            },
+                            {
+                                "title": "정보동의",
+                                "icon": "bi-app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "2022-12-01",
+        "icon": "bi-app",
+        "childrens": [
+            {
+                "title": "신규대출",
+                "icon": "bi-app",
+                "path": "/",
+                "childrens": [
+                    {
+                        "title": "심사",
+                        "icon": "bi-app",
+                        "path": "/calendar",
+                        "childrens": [
+                            {
+                                "title": "대출신청",
+                                "icon": "bi-app"
+                            },
+                            {
+                                "title": "정보동의",
+                                "icon": "bi-app"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "약정",
+                        "icon": "bi-app",
+                        "path": "/calendar",
+                        "childrens": [
+                            {
+                                "title": "공통서류",
+                                "icon": "bi-app"
+                            },
+                            {
+                                "title": "법인서류",
+                                "icon": "bi-app"
+                            },
+                            {
+                                "title": "보증서류",
+                                "icon" : "bi-app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    {
+        "title": "기술지원",
+        "icon": "bi-question-circle-fill",
+        "path": "/support"
+    },
+    {
+        "title": "사용자",
+        "icon": "bi-bug",
+        "path": "/report-bug"
+    }
+]
